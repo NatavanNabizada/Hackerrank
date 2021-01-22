@@ -26,7 +26,7 @@
 <tr>
 <td>2</td>
 <td><a href="https://www.hackerrank.com/challenges/2d-array/problem" rel="nofollow">2D Array - DS</a></td>
-<td><a href="https://github.com/nnatevan/Hackerrank/blob/master/Data%20Structure/2D%20Array-DS/src/com/company/Main.java">Solution</a></td>
+<td><a href="https://github.com/nnatevan/Hackerrank/blob/master/Data%20Structure/Dynamic%20Array/src/com/company/Main.java">Solution</a></td>
 <td>Easy</td>
 <td>Array</td>
 </tr>
