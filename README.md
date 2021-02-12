@@ -51,3 +51,30 @@
 <td>Array</td>
 </tr>
 </tr>
+
+
+
+
+<h2>Linked List</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Solutions</th>
+<th>Difficulty</th>
+<th>Tag</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<tr>
+<td>1</td>
+<td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem" rel="nofollow">Print the Elements of a Linked List</a></td>
+<td><a href="https://github.com/nnatevan/Hackerrank/blob/master/Data%20Structure/Print%20the%20Elements%20of%20a%20Linked%20List/src/com/company/Main.java">Solution</a></td>
+<td>Easy</td>
+<td>Linked List</td>
+</tr>
+</tr>
+</table>
