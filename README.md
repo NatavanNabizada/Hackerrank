@@ -54,7 +54,6 @@
 </table>
 <br>
 <br>
-<br>
 <h2>Linked List</h2>
 <table>
 <thead>
