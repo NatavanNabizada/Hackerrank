@@ -52,7 +52,7 @@
 </tr>
 </tr>
 </table>
-<br>
+
 <br>
 <h2>Linked List</h2>
 <table>
